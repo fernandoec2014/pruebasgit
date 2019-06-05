@@ -1,0 +1,2 @@
+# pruebasgit
+Capacitacion de git 
