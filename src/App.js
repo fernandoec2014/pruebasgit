@@ -19,7 +19,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Voy a generar un bug
+          Learn GitHUB
         </a>
       </header>
     </div>
